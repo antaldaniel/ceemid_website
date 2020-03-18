@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-[[CEEMID]] is a pan-Euorpean music data integration system. It uses many data sources about the audience, the creators of music, music works and recordings, its circulation globally and its economy.
+**CEEMID** is a pan-Euorpean music data integration system. It uses many data sources about the audience, the creators of music, music works and recordings, its circulation globally and its economy.
 
 CEEMID is using external and internal [https://ceemid.miraheze.org/wiki/Data_Sources] and [https://ceemid.miraheze.org/wiki/Metadata] to [https://ceemid.miraheze.org/wiki/Data_Integration] information from various sources, and to create timely, reliable, actionable statistics and indicators for the [https://ceemid.miraheze.org/wiki/Music industry], policymakers and [https://ceemid.miraheze.org/wiki/Music professional]s.
 
