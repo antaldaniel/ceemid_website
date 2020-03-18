@@ -24,9 +24,9 @@
   weight = 40
 
 [[main]]
-  name = "Use Cases"
-  url = "#usecase"
-  weight = 40
+  name = "Documentation"
+  url = "#documentation"
+  weight = 50
 
 [[main]]
   name = "Contact"
