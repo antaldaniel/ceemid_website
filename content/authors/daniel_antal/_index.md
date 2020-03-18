@@ -1,25 +1,41 @@
 ---
 # Display name
-name: CEEMID
+name: Daniel Antal, CFA
 
 # Username (this should match the folder name)
 authors:
-- admin
+- danielantal
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: admin
+role: Founder
 
 # Organizations/Affiliations
 organizations:
-- name: CEEMID
-  url: ""
+- name: Visegrad Investments - CEEMID
+  url: "https//danielantal.eu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: CEEMID website administrator.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+topics:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
+
+education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,7 +65,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-
+user_groups:
+- Founders
 ---
 
-CEEMID is a music industry data integration and data dissemination platform.
+Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for my recommendations, and I apply the standards and ethical guidelines of the Chartered Financial Analyst Institute. 
