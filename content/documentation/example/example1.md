@@ -1,13 +1,13 @@
 ---
 title: Example Page 1
-linktitle: Tips 1-2
+linktitle: Documentation Wiki
 toc: true
 type: docs
-date: "2019-05-05T00:00:00+01:00"
+date: "2020-03-18T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: CEEMID Documentation Wiki
+    parent: CEEMID Documentation
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -16,7 +16,7 @@ weight: 1
 
 **CEEMID** is a pan-Euorpean music data integration system. It uses many data sources about the audience, the creators of music, music works and recordings, its circulation globally and its economy.
 
-CEEMID is using external and internal [data sources](https://ceemid.miraheze.org/wiki/Data_Sources) and [metadata](https://ceemid.miraheze.org/wiki/Metadata) to [integrate](https://ceemid.miraheze.org/wiki/Data_Integration) information from various sources, and to create timely, reliable, actionable statistics and indicators for the [music industry](https://ceemid.miraheze.org/wiki/Music industry), policymakers and [music professional](https://ceemid.miraheze.org/wiki/Music professional).
+CEEMID is using external and internal [data sources](https://ceemid.miraheze.org/wiki/Data_Sources) and [metadata](https://ceemid.miraheze.org/wiki/Metadata) to [integrate](https://ceemid.miraheze.org/wiki/Data_Integration) information from various sources, and to create timely, reliable, actionable statistics and indicators for the [music industry](https://ceemid.miraheze.org/wiki/Music_industry), policymakers and [music professional](https://ceemid.miraheze.org/wiki/Music_professional).
 
 ## Tip 1
 
