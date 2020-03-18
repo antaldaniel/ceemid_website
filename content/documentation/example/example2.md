@@ -1,6 +1,6 @@
 ---
-title: Example Page 2
-linktitle: Documentation strategy
+title: Documentation strategy
+linktitle: Open & Reproducible Access
 toc: true
 type: docs
 date:  "2020-03-18T00:00:00+01:00"

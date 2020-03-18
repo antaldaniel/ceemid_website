@@ -29,6 +29,11 @@
   weight = 50
 
 [[main]]
+  name = "Example Report"
+  url = "http://ceereport2020.ceemid.eu/"
+  weight = 80
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 90
