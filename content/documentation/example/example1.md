@@ -7,14 +7,16 @@ date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: Example Topic
+    parent: CEEMID Documentation Wiki
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+[[CEEMID]] is a pan-Euorpean music data integration system. It uses many data sources about the audience, the creators of music, music works and recordings, its circulation globally and its economy.
+
+CEEMID is using external and internal [https://ceemid.miraheze.org/wiki/Data_Sources] and [https://ceemid.miraheze.org/wiki/Metadata] to [https://ceemid.miraheze.org/wiki/Data_Integration] information from various sources, and to create timely, reliable, actionable statistics and indicators for the [https://ceemid.miraheze.org/wiki/Music industry], policymakers and [https://ceemid.miraheze.org/wiki/Music professional]s.
 
 ## Tip 1
 
