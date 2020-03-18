@@ -20,17 +20,15 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Artisjus, HDS & SOZA"
-  organization_url = ""
+  organization_url = "www.ceemid.eu"
   title = "Memorandum of Understanding"
-  url = ""
-  certificate_url = "https://www.coursera.org"
   date_start = "2014-04-30"
   date_end = ""
   description = ""
 
 [[item]]
   organization = "Central European Music Industry Report"
-  organization_url = "https://www.edx.org"
+  organization_url = "www.ceemid.eu"
   title = "Central European Music Industry Report"
   url = "http://ceereport2020.ceemid.eu/"
   date_start = "2020-01-29"
