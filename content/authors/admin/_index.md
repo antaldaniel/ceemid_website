@@ -52,4 +52,6 @@ email: ""
 
 ---
 
-CEEMID is a music industry data integration and data dissemination platform.
+CEEMID is a data integration system that could provide to be a model and starting point of building a [European Music Observatory](https://documentation.ceemid.eu/index.php?title=European_Music_Observatory) based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources.
+
+CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide acces timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals. (Read more about our [data coverage](https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Coverage))
