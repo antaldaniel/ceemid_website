@@ -86,7 +86,8 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = " Wilhelmina van Pruisenweg 35", city = "Den Haag", region = "Zuid-Holland", postcode = "2595 AN", country = "Netherlands", country_code = "NL"}
+#address = {street = " Wilhelmina van Pruisenweg 35", city = "Den Haag", region = "Zuid-Holland", postcode = "2595 AN", country = "Netherlands", country_code = "NL"}
+address = ""
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -97,7 +98,7 @@ directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = []
+office_hours = '[]'
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -107,7 +108,7 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/satellitereport"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:antaldaniel.hu"},
-  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = ""},
+  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/antaldaniel/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = ""},
   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@antaldaniel"},
   ]
