@@ -34,6 +34,9 @@ education:
   - course: M.Sc. Economic Regulation and Competition Policy
     institution: City University
     year: 2002
+  - course: M.Sc. Economics (Actuary Science & Applied Operational Research)
+    institution: Budapest University of Economics Sciences
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

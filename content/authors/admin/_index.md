@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Demo Music Observatory
+title: CEEMID
 
 # Is this the primary user of the site?
 superuser: true
@@ -60,7 +60,7 @@ user_groups:
 - Visitors
 ---
 
-We are developing our [Demo Music Observatory](project/music-observatory/) in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/) following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/). 
+CEEMID has collected since 2014 about 2019 music industry business and policy indicators.  In 2020 we decided to launch a  [Demo Music Observatory](project/music-observatory/) in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/) following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/). 
 
 **The Demo Music Observatory Pillars**: 
 
