@@ -10,15 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: admin
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: CEEMID
-  url: ""
+- name: Reprex BV
+  url: "https://dataobservatory.eu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: CEEMID website administrator.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+
 
 
 # Social/Academic Networking
@@ -49,9 +51,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
 
 ---
 
-CEEMID is a data integration system that could provide a model and starting point of building a [European Music Observatory](https://documentation.ceemid.eu/index.php?title=European_Music_Observatory) based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources.
+CEEMID is now part of Reprex, and its public interface is the [Demo Music Observatory](https://music.dataobservatory.eu/).
 
-CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory. This would give the music industry, policymakers and music professionals Europe-wide access to timely, reliable, actionable statistics and indicators for business and policy development (Read more about our [data coverage](https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Coverage).)
