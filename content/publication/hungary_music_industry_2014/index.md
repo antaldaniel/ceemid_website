@@ -18,20 +18,15 @@ authors = ["Daniel Antal"]
 publication_types = ["4"]
 
 # Abstract and optional shortened version.
-abstract = "Hungary's first music industry report. Following the three income streams model from creation till audience, we summerized for the the number of works that were created, recorded, staged in Hungary in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry. There is an extensive business development and policy conclusions chapter in the 143-pages report, which is the first in a series about the Central European music industry."
+abstract = "The first comprehensive music industry report in Hungary and in the CEE region using the three income stream model to assess the income, value, value added in live music, publishing and recording.  A 143-pages report that was followed by the Slovakian and Croatian reports, and annual reports in Hungary."
 
-abstract_short = "Hungary's first music industry report. Following the three income streams model from creation till audience, we summerized for the the number of works that were created, recorded, staged in Hungary in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry."
+abstract_short = "The first comprehensive music industry report in Hungary and in the CEE region using the three income stream model to assess the income, value, value added in live music, publishing and recording."
 
 # Is this a selected publication? (true/false)
 selected = true
 
 # Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["market-report"]
+projects = ["music-report"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

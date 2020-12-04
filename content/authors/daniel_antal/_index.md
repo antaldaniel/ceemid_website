@@ -1,41 +1,39 @@
 ---
 # Display name
-name: Daniel Antal, CFA
+title: Daniel Antal
+name: Daniel Antal
 
 # Username (this should match the folder name)
 authors:
-- danielantal
+- daniel_antal
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Founder
+role: Data Scientist & Co-Founder of the Demo Music Observatory
 
 # Organizations/Affiliations
 organizations:
-- name: Visegrad Investments - CEEMID
-  url: "https//danielantal.eu"
+- name: Reprex B.V.
+  url: "https://dataobservatory.eu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reproducible social science, economics and finance.
 
 topics:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Intangible Assets / Royalty Valuation
+- Open Data
+- Music
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Chartered Financial Analyst
+    institution: CFA Institute
+    year: 2015
+  - course: M.Sc. Economic Regulation and Competition Policy
+    institution: City University
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +45,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/antaldaniel
+- icon: orcid
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://orcid.org/0000-0001-5712-2103
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/antaldaniel
+- icon: keybase
+  icon_pack: fab
+  link: https://keybase.io/antaldaniel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Founders
+- Data Scientists
 ---
 
-Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for my recommendations, and I apply the standards and ethical guidelines of the Chartered Financial Analyst Institute. 
+Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute. 

@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["market-report", "music-industry", "opendata", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia"]
+tags = ["market-report", "music-industry", "CCI", "CEEMID", "opendata", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia", "music-observatory"]
 
 summary = "The Central & Eastern European Music Industry Report 2020 was presented as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector."
 
@@ -30,10 +30,9 @@ projects = ["market-report", "music-export", "opendata"]
 
 CEEMID & Consolidated Independent presented and discussed with stakeholders the  [Central & Eastern European Music Industry Report 2020](https://danielantal.eu/publication/ceereport_2020/) as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
 
-My presentation was focused around the question on invisibility of the CCI sector in the economic, education and labour policymaking, and the low level of data use in fact-based cultural policy design, and the following policy design problems. Our CEE Music Industry Report 2020 created with the help and support of Consolidated Independent was used as a use case for the problems. 
+Daniel's presentation was focused around the question on invisibility of the CCI sector in the economic, education and labour policymaking, and the low level of data use in fact-based cultural policy design, and the following policy design problems. Our CEE Music Industry Report 2020 created with the help and support of Consolidated Independent was used as a use case for the problems. 
 
-This blog post is an edited version of my presentation and the subsequent panel discussion with the stakeholders and organizers. 
-
+This blog post is an edited version of Daniel's presentation and the subsequent panel discussion with the stakeholders and organizers. 
 
 The CEE Report builds on the results of the first [Hungarian](https://danielantal.eu/publication/hungary_music_industry_2014/), [Slovak](https://danielantal.eu/publication/slovak_music_industry_2019/), [Croatian](https://danielantal.eu/publication/private_copying_croatia_2019/) and [Czech](http://czdev.ceemid.eu/) music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings. 
 
@@ -73,7 +72,7 @@ Similarly to very reduced opportunities to participate in, and create life-long 
 
 ## Recommendations
 
-I made a few concrete recommendations in the panel.
+Daniel made a few concrete recommendations in the panel.
 
 * Creating the European Music Observatory, and the creation of similar industry initiatives, and commissioning collaborative (multi-stakeholder) market research, as CEEMID works in many countries, can only replace the missing market research function in the extremely fragmented industries, such as motion picture production, the music industry, but to a certain degree architecture and design.
 
@@ -82,7 +81,6 @@ I made a few concrete recommendations in the panel.
 * Critically reviewing the participation of micro-enterprises in the current forms of social dialogue and looking for formal or informal ways to increase participation in policy making can gradually lead to more creative-friendly economic regulation and tax policies.  The Hungarian Music Industry Report 2015 and the Slovak Music Industry Report 2019 contains very interesting case studies for this problem that we briefly summarize in the [CEE Music Industry Report 2020](https://danielantal.eu/publication/ceereport_2020/).
 
 * Critically reviewing the few examples from mainly Nordic member states where collective agreements and other collaborative institutions allow microenterprises and freelancers to participate in life-long learning problems can help designing policies that will gradually reduce the huge skill gap of the CCIs in management know-how, data know-how, or renew their technical skills necessary in the production of their services and content. Our work with the Hungarian National Film Fund and surveys among more than a thousand film makers can give much insight into this problem.
-
 
 ## Further links
 

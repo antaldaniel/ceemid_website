@@ -7,14 +7,17 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Team"
+title = "Meet the Team"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Founders",
-                 "Contributors"]
+  user_groups = ["Data Scientists",
+                 "Researchers",
+                 "Administration",
+                 "Partners",
+                 "Alumni"]
 
 [design]
   # Show user's social networking links? (true/false)
@@ -37,7 +40,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "background.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).

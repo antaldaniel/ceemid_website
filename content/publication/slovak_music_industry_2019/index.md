@@ -3,7 +3,7 @@ title = "Slovak Music Industry Report"
 date = 2019-03-26T00:00:00
 draft = false
 
-authors = ["Daniel Antal"]
+authors = ["Daniel Antal, CFA"]
 
 # Publication type.
 # Legend:
@@ -16,10 +16,10 @@ abstract = "Slovakia's first music industry report. Following the three income s
 abstract_short = "Slovakia's first music industry report. Following the three income streams model from creation till audience, we summerized for the the number of works that were created, recorded, staged in Hungary in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry."
 
 # Is this a selected publication? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
-projects = ["market-report"]
+projects = ["music-report"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -30,7 +30,7 @@ projects = ["market-report"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "Slovakia", "music-industry"]
+tags = ["market-report", "Slovakia", "music-industry", "VAT", "advocacy", "regulation", "CCS"]
 
 # Links (optional).
 url_pdf = "http://www.soza.sk/cms/content/files/Sprava_o_slovenskom_hudobnom_priemysle_marec2019.pdf"
@@ -60,7 +60,7 @@ math = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Top"
 +++
 
 The whole report can be downloaded for free from the [homepage of SOZA](http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle).
@@ -74,6 +74,6 @@ Kreatívna Europa: [Historicky prvá Správa o slovenskom hudobnom priemysle pri
 In Hungarian:
 Új Szó: [Tudományosan a hazai zeneiparról](https://ujszo.com/kultura/tudomanyosan-a-hazai-zeneiparrol)
 
-Slides:
+## Slides
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/86x5wKAlsIetxA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018" title="Spáva o hudobnom priemysle na Slovensku" target="_blank">Spáva o hudobnom priemysle na Slovensku</a> </strong> from <strong><a href="//www.slideshare.net/antaldaniel" target="_blank">Dániel Antal</a></strong> </div>

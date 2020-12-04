@@ -1,13 +1,17 @@
 # SITE SETUP
-# Documentation: https://sourcethemes.com/academic/
+# Guide: https://wowchemy.com/docs/get-started/
+# Documentation: https://wowchemy.com/docs/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each config section after this section is defined by a name in square brackets (e.g. `[search]`).
 
 ############################
 ## Theme
 ############################
 
 # Choose a theme.
-#   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in themes in `themes/academic/data/themes/`
+#   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
+#   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
 theme = "minimal"
 
@@ -15,8 +19,8 @@ theme = "minimal"
 day_night = true
 
 # Override the theme's font set (optional).
-#   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in font sets in `themes/academic/data/fonts/`
+#   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
+#   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
 font = ""
 
@@ -41,17 +45,17 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Satellite Report"
+org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "CEEMID is a pan-Euorpean music data integration system. It uses many data sources about the audience, the creators of music, music works and recordings, its circulation globally and its economy."
+description = "We want big data to work for small venues, independent labels, startups, great and undiscovered artists, and lead the way to create a truly inclusive European Music Observatory."
 
 ############################
 ## Site Features
 ############################
 
 # Enable source code highlighting? true/false
-# Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
+# Documentation: https://wowchemy.com/docs/writing-markdown-latex/#highlighting-options
 highlight = true
 highlight_languages = ["r"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
@@ -71,7 +75,10 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/antaldaniel/ceemid_website", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {page = false, post = false, book = false}}
+
+# Show related content at the bottom of pages?
+show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -81,59 +88,58 @@ edit_page = {repo_url = "https://github.com/antaldaniel/ceemid_website", content
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "hello@dataandlyrics.eu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = " Wilhelmina van Pruisenweg 35", city = "Den Haag", region = "Zuid-Holland", postcode = "2595 AN", country = "Netherlands", country_code = "NL"}
-#address = ""
+address = {street = "", city = "Den Haag", region = "", postcode = "2592TA", country = "Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.083373", longitude = "4.341839"}
+coordinates = {latitude = "52.0798391", longitude = "4.3404248"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "During the pandemic we are in home offices."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = '[]'
+#office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/satellitereport"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:antaldaniel.hu"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/antaldaniel/"},
-  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = ""},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@antaldaniel"},
+ {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/dataandlyrics"},
+ {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:antaldaniel.hu"},
+ {icon = "keybase", icon_pack = "fab", name = "Get in touch on Keybase", link = "https://keybase.io/team/reprexcommunity"},
+ {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/company/reprexbv/"},
+ {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@antaldaniel"},
   ]
 
 ############################
 ## Social
 ############################
 
-# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+# Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "dataandlyrics"
 
 ############################
 ## Regional Settings
 ############################
 
-# Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+# Date and time format (refer to https://wowchemy.com/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
-# Address format (choose from the [address_formats] list below or add you own to the list).
+# Address format (en-us, en-gb, de, fr-fr, zh).
 address_format = "en-us"
 
 ############################
@@ -141,7 +147,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -153,11 +159,15 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
 
+# Show a copyright license from creativecommons.org in the site footer?
+# Page specific copyright licenses are also possible by adding this option to a page's front matter.
+copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+
 # Link authors to their profile page? (true/false)
 link_authors = true
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
-abstract_length = 135
+abstract_length = 150
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
@@ -173,19 +183,11 @@ plugins_js  = []
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
 
-# Available address formats.
-[address_formats]
-  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
-  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
-  de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
-  fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
-  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
-
 # Configuration of publication pages.
 [publications]
-  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+  # Date format (refer to https://wowchemy.com/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "2006-01-02"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
@@ -260,7 +262,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 0
+  engine = 2
   api_key = ""
   zoom = 15
 
@@ -268,5 +270,18 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-1214068-19"
+  google_analytics = "UA-G-9SJM4VK66R"
   google_tag_manager = ""
+
+############################
+## Content Management System
+############################
+[cms]
+  # See https://wowchemy.com/docs/install/
+  netlify_cms = true
+
+############################
+## Icon Pack Extensions
+############################
+[icon.pack]
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
